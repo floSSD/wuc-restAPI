@@ -1,5 +1,4 @@
 {
-    {
     "WUCAnswer": {
         "typo3Id": "66591",
         "deutsch": {
@@ -14,9 +13,7 @@
             "text": "test",
             "link": "https://www.wu.ac.at/en?id=66591"
         }
-    }
-},
-{
+    },
     "WUCAnswer": {
         "typo3Id": "66591",
         "deutsch": {
@@ -32,34 +29,4 @@
             "link": "https://www.wu.ac.at/en?id=66591"
         }
     }
-},
-{
-    "WUCAnswer": {
-        "typo3Id": "66591",
-        "deutsch": {
-            "answerId": "sommersemester-studium-start",
-            "title": "sommersemester-studium-start",
-            "text": "WISO: Sie können mit positiv absolviertem Aufnahmeverfahren das Studium auch im Sommersemester beginnen. Zum Beispiel: Teilnahme am Aufnahmeverfahren im Frühjahr 2022, Einstieg ins Studium: WiSe 2022/23 oder SoSe 2023 WIRE: Sie können mit positiv absolviertem Aufnahmeverfahren das Studium auch im Sommersemester beginnen. Zum Beispiel: Teilnahme am Aufnahmeverfahren im Frühjahr 2022, Einstieg ins Studium: WiSe 2022/23 oder SoSe 2023 Business and Economics: Sie können das Studium nur im Wintersemester beginnen.",
-            "link": "https://www.wu.ac.at?id=66591"
-        },
-        "english": {
-            "answerId": "summer-term-start",
-            "title": "summer-term-start",
-            "text": "Business, Economics and Social Sciences: If you have successfully completed the selection procedure, you can also enroll and start studying in the summer semester. For example: If you participated in the selection procedure in the spring of 2022, you are entitled to enroll in either the 2022/23 winter semester or the 2023 summer semester. Business Law: If you have successfully completed the selection procedure, you can also enroll and start studying in the summer semester. For example: If you participated in the selection procedure in the spring of 2022, you are entitled to enroll in either the 2022/23 winter semester or the 2023 summer semester. Business and Economics: This program can only be started in the fall.",
-            "link": "https://www.wu.ac.at/en?id=66591"
-        }
-    }
-},
-{
-    "WUCAnswer": {
-        "typo3Id": "66591",
-        "deutsch": {
-            "answerId": "test-onlyAppendAtEnd",
-            "title": "test-onlyAppendAtEnd",
-            "text": "kurzer Test ob ChatbotAntworten nur am Ende hinzugefügt werden können...",
-            "link": "https://www.wu.ac.at?id=66591"
-        },
-        "english": [ ]
-    }
-}
-}
+}    
