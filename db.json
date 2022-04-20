@@ -1,25 +1,64 @@
 {
     "WUCAnswer": {
-        "wikiId": 31949306,
+        "typo3Id": "66591",
         "deutsch": {
-            "title": "VPN Verbindung herstellen",
-            "chatbotAnswers": {
-                "b1": "<p><span style=\"color: rgb(0,0,0);\">OK. Um VPN zu nützen musst du den Global Protect VPN Client von Palo Alto Networks installieren. </span></p>",
-                "b2": "<span style=\"color: rgb(0,0,0);\">Und für die Verbindung brauchst du deine WU-Matrikelnummer (h123456) und dein WLAN-Passport (Achtung! ≠ Accountpasswort)</span>",
-                "b3": "Test für Deeplink:<br/><span style=\"color: rgb(82,164,243);\"><a href=\"https://controlpanel.wu.ac.at/\" class=\"external-link\" rel=\"nofollow\">https://controlpanel.wu.ac.at/</a></span>"
-            },
-            "relLink": "/display/KBITS/VPN+Verbindung+herstellen"
+            "answerId": "bachelor-aufnahmeverfahren-FAQs-link",
+            "title": "bachelor-aufnahmeverfahren-FAQs-link",
+            "text": "Unter folgendem Link findest du die FAQs zum Aufnahmeverfahren des Bachelorstudiums an der WU Wien. Aufnahmeverfahren FAQs - Bachelor   Klarlink: www.wu.ac.at?id=66591",
+            "link": "https://www.wu.ac.at?id=66591"
         },
         "english": {
-            "title": "VPN Verbindung herstellen",
-            "chatbotAnswers": {
-                "b1": "OK. To use VPN you need to install the Global Protect VPN Client from Palo Alto Networks.",
-                "b2": "And for the connection you need your WU matriculation number (h123456) and your WLAN passport (⚠ ≠ account password).",
-                "b3": "Test for Deeplink:<br/><span style=\"color: rgb(82,164,243);\"><a href=\"https://controlpanel.wu.ac.at/\" class=\"external-link\" rel=\"nofollow\">https://controlpanel.wu.ac.at/</a></span>"
-            },
-            "relLink": "/display/KBITS/VPN+Verbindung+herstellen"
+            "answerId": "bachelor-selection-procedure-FAQs",
+            "title": "bachelor-selection-procedure-FAQs",
+            "text": "test",
+            "link": "https://www.wu.ac.at/en?id=66591"
         }
     }
+},
+{
+    "WUCAnswer": {
+        "typo3Id": "66591",
+        "deutsch": {
+            "answerId": "maturazeugnis-registrierung-zulassung",
+            "title": "maturazeugnis-registrierung-zulassung",
+            "text": "Ihr Maturazeugnis benötigen Sie erst bei der Zulassung zum Studium, bei der Registrierung ist es nicht zwingend notwendig. Falls Sie das Maturazeugnis bereits vor der Registrierung zum Studium erhalten haben, laden Sie es bitte im Registrierungstool hoch.",
+            "link": "https://www.wu.ac.at?id=66591"
+        },
+        "english": {
+            "answerId": "matura-certificate-registration",
+            "title": "matura-certificate-registration",
+            "text": "You don't need to present your Matura certificate/secondary school diploma until you actually enroll in your program. If you do already have your Matura certificate/secondary school diploma at the time of registration, you can upload it on the registration page.",
+            "link": "https://www.wu.ac.at/en?id=66591"
+        }
+    }
+},
+{
+    "WUCAnswer": {
+        "typo3Id": "66591",
+        "deutsch": {
+            "answerId": "sommersemester-studium-start",
+            "title": "sommersemester-studium-start",
+            "text": "WISO: Sie können mit positiv absolviertem Aufnahmeverfahren das Studium auch im Sommersemester beginnen. Zum Beispiel: Teilnahme am Aufnahmeverfahren im Frühjahr 2022, Einstieg ins Studium: WiSe 2022/23 oder SoSe 2023 WIRE: Sie können mit positiv absolviertem Aufnahmeverfahren das Studium auch im Sommersemester beginnen. Zum Beispiel: Teilnahme am Aufnahmeverfahren im Frühjahr 2022, Einstieg ins Studium: WiSe 2022/23 oder SoSe 2023 Business and Economics: Sie können das Studium nur im Wintersemester beginnen.",
+            "link": "https://www.wu.ac.at?id=66591"
+        },
+        "english": {
+            "answerId": "summer-term-start",
+            "title": "summer-term-start",
+            "text": "Business, Economics and Social Sciences: If you have successfully completed the selection procedure, you can also enroll and start studying in the summer semester. For example: If you participated in the selection procedure in the spring of 2022, you are entitled to enroll in either the 2022/23 winter semester or the 2023 summer semester. Business Law: If you have successfully completed the selection procedure, you can also enroll and start studying in the summer semester. For example: If you participated in the selection procedure in the spring of 2022, you are entitled to enroll in either the 2022/23 winter semester or the 2023 summer semester. Business and Economics: This program can only be started in the fall.",
+            "link": "https://www.wu.ac.at/en?id=66591"
+        }
+    }
+},
+{
+    "WUCAnswer": {
+        "typo3Id": "66591",
+        "deutsch": {
+            "answerId": "test-onlyAppendAtEnd",
+            "title": "test-onlyAppendAtEnd",
+            "text": "kurzer Test ob ChatbotAntworten nur am Ende hinzugefügt werden können...",
+            "link": "https://www.wu.ac.at?id=66591"
+        },
+        "english": [ ]
+    }
 }
-
 
