@@ -1,5 +1,6 @@
 {
     "typo3" : [
+    {
     "WUCAnswer": {
         "typo3Id": "66591",
         "deutsch": {
@@ -15,7 +16,9 @@
             "link": "https://www.wu.ac.at/en?id=66591"
         }
     }
+    }
     ],
+    {
     "wiki" : [
     "WUCAnswer": {
         "typo3Id": "66591",
@@ -33,4 +36,5 @@
         }
     }
     ]
+    }
 }    
