@@ -1,40 +1,49 @@
 {
     "typo3" : [
     {
-    "WUCAnswer": {
-        "typo3Id": "66591",
-        "deutsch": {
-            "answerId": "bachelor-aufnahmeverfahren-FAQs-link",
-            "title": "bachelor-aufnahmeverfahren-FAQs-link",
-            "text": "Unter folgendem Link findest du die FAQs zum Aufnahmeverfahren des Bachelorstudiums an der WU Wien. Aufnahmeverfahren FAQs - Bachelor   Klarlink: www.wu.ac.at?id=66591",
-            "link": "https://www.wu.ac.at?id=66591"
-        },
-        "english": {
-            "answerId": "bachelor-selection-procedure-FAQs",
-            "title": "bachelor-selection-procedure-FAQs",
-            "text": "test",
-            "link": "https://www.wu.ac.at/en?id=66591"
-        }
+        "WUCAnswer": {
+            "id": "66591",
+            "typo3Id": "66591",
+            "deutsch": {
+                "answerId": "bachelor-aufnahmeverfahren-FAQs-link",
+                "title": "bachelor-aufnahmeverfahren-FAQs-link",
+                "text": "Unter folgendem Link findest du die FAQs zum Aufnahmeverfahren des Bachelorstudiums an der WU Wien. Aufnahmeverfahren FAQs - Bachelor   Klarlink: www.wu.ac.at?id=66591",
+                "link": "https://www.wu.ac.at?id=66591"
+            },
+            "english": {
+                "answerId": "bachelor-selection-procedure-FAQs",
+                "title": "bachelor-selection-procedure-FAQs",
+                "text": "test",
+                "link": "https://www.wu.ac.at/en?id=66591"
+            }
     }
     }
     ],
     "wiki" : [
         {
-    "WUCAnswer": {
-        "typo3Id": "66591",
-        "deutsch": {
-            "answerId": "bachelor-aufnahmeverfahren-FAQs-link",
-            "title": "bachelor-aufnahmeverfahren-FAQs-link",
-            "text": "Unter folgendem Link findest du die FAQs zum Aufnahmeverfahren des Bachelorstudiums an der WU Wien. Aufnahmeverfahren FAQs - Bachelor   Klarlink: www.wu.ac.at?id=66591",
-            "link": "https://www.wu.ac.at?id=66591"
-        },
-        "english": {
-            "answerId": "bachelor-selection-procedure-FAQs",
-            "title": "bachelor-selection-procedure-FAQs",
-            "text": "test",
-            "link": "https://www.wu.ac.at/en?id=66591"
+
+            "WUCAnswer": {
+                "wikiId": 31949306,
+                "deutsch": {
+                    "title": "VPN Verbindung herstellen",
+                    "chatbotAnswers": {
+                        "b1": "<p><span style=\"color: rgb(0,0,0);\">OK. Um VPN zu nützen musst du den Global Protect VPN Client von Palo Alto Networks installieren. </span></p>",
+                        "b2": "<span style=\"color: rgb(0,0,0);\">Und für die Verbindung brauchst du deine WU-Matrikelnummer (h123456) und dein WLAN-Passport (Achtung! ≠ Accountpasswort)</span>",
+                        "b3": "Test für Deeplink:<br/><span style=\"color: rgb(82,164,243);\"><a href=\"https://controlpanel.wu.ac.at/\" class=\"external-link\" rel=\"nofollow\">https://controlpanel.wu.ac.at/</a></span>"
+                    },
+                    "relLink": "/display/KBITS/VPN+Verbindung+herstellen"
+                },
+                "english": {
+                    "title": "VPN Verbindung herstellen",
+                    "chatbotAnswers": {
+                        "b1": "OK. To use VPN you need to install the Global Protect VPN Client from Palo Alto Networks.",
+                        "b2": "And for the connection you need your WU matriculation number (h123456) and your WLAN passport (⚠ ≠ account password).",
+                        "b3": "Test for Deeplink:<br/><span style=\"color: rgb(82,164,243);\"><a href=\"https://controlpanel.wu.ac.at/\" class=\"external-link\" rel=\"nofollow\">https://controlpanel.wu.ac.at/</a></span>"
+                    },
+                    "relLink": "/display/KBITS/VPN+Verbindung+herstellen"
+                }
+            }
+        
         }
-    }
-    }
 ]
 }   
