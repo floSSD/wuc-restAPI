@@ -1,4 +1,5 @@
 {
+    "typo3" : [
     "WUCAnswer": {
         "typo3Id": "66591",
         "deutsch": {
@@ -14,4 +15,22 @@
             "link": "https://www.wu.ac.at/en?id=66591"
         }
     }
+    ],
+    "wiki" : [
+    "WUCAnswer": {
+        "typo3Id": "66591",
+        "deutsch": {
+            "answerId": "bachelor-aufnahmeverfahren-FAQs-link",
+            "title": "bachelor-aufnahmeverfahren-FAQs-link",
+            "text": "Unter folgendem Link findest du die FAQs zum Aufnahmeverfahren des Bachelorstudiums an der WU Wien. Aufnahmeverfahren FAQs - Bachelor   Klarlink: www.wu.ac.at?id=66591",
+            "link": "https://www.wu.ac.at?id=66591"
+        },
+        "english": {
+            "answerId": "bachelor-selection-procedure-FAQs",
+            "title": "bachelor-selection-procedure-FAQs",
+            "text": "test",
+            "link": "https://www.wu.ac.at/en?id=66591"
+        }
+    }
+    ]
 }    
