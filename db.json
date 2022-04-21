@@ -1,8 +1,8 @@
 {
     "typo3" : [
-    {
+    {   
+        "id": "66591",
         "WUCAnswer": {
-            "id": "66591",
             "typo3Id": "66591",
             "deutsch": {
                 "answerId": "bachelor-aufnahmeverfahren-FAQs-link",
@@ -21,9 +21,8 @@
     ],
     "wiki" : [
         {
-
+            "id": 31949306,
             "WUCAnswer": {
-                "id": 31949306
                 "wikiId": 31949306,
                 "deutsch": {
                     "title": "VPN Verbindung herstellen",
