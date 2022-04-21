@@ -44,6 +44,12 @@
         },
         "id": 31949306
 
-    }
-]
+    },
+        "b1": [
+        {
+            "de": "<p><span style=\"color: rgb(0,0,0);\">OK. Um VPN zu nützen musst du den Global Protect VPN Client von Palo Alto Networks installieren. </span></p>",
+            "en": "OK. To use VPN you need to install the Global Protect VPN Client from Palo Alto Networks."
+        }
+    ]
+],
 }   
